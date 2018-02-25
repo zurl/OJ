@@ -1,15 +1,15 @@
 package leetcode;
 
 
-class ListNode {
-    int val;
-    ListNode next;
-    ListNode(int x) {
-        val = x;
-    }
-}
-
 public class p2 {
+
+    static class ListNode {
+        int val;
+        ListNode next;
+        ListNode(int x) {
+            val = x;
+        }
+    }
 
 
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
