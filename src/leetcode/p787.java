@@ -2,7 +2,7 @@ package leetcode;
 
 import java.util.PriorityQueue;
 
-public class p787 {
+public class    p787 {
 
     static class Edge{
         int v, t;
